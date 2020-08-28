@@ -1,4 +1,4 @@
-# nginx-rmtp-live-stream
+# nginx-rtmp-live-stream
 
 ## Download, build and install
 
