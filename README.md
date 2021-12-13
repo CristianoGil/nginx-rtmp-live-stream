@@ -10,7 +10,7 @@ Build Utilities
 
 To set up RTMP support you need to add `rtmp{}` section to `nginx.conf` (can be found in PREFIX/conf/nginx.conf). Stock `nginx.conf` contains only `http{}` section.
 
-    sudo atom /usr/local/nginx/conf/nginx.conf
+    sudo nano /usr/local/nginx/conf/nginx.conf
 
 Use this `nginx.conf` instead of stock config:
           
